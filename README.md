@@ -24,7 +24,8 @@ iii) Filling in the form(on the portal)
 
 Methodology:
 
-![image](https://user-images.githubusercontent.com/84508881/137131581-2ea10745-240c-4705-82fa-d00a91ce69a5.png)
+![image](https://user-images.githubusercontent.com/84508881/137133974-cb61fc1a-3863-4c02-b6c3-da3c82fefa58.png)
+
 
 
 Screenshots-
