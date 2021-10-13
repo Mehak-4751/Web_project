@@ -1,0 +1,8 @@
+Team*.zip
+*.pem
+*.ppk
+*.crt
+*.key
+*.ovpn
+apikey.py
+node_modules/
