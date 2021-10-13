@@ -23,6 +23,7 @@ ii) Calling authorities via voice calls and letting them know the issues
 iii) Filling in the form(on the portal)
 
 Methodology:
+
 ![image](https://user-images.githubusercontent.com/84508881/137131581-2ea10745-240c-4705-82fa-d00a91ce69a5.png)
 
 
